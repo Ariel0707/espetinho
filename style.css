@@ -19,6 +19,31 @@ body {
     margin-top: 5px;
     margin-left: 0px;
 }
+.cardapio{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #7a3520;
+    border-radius: 12px;
+}
+.cd{
+    background-color: #150906;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    position: absolute;
+    top: 295%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 input.botao {
     background-color: #7a3520;
@@ -48,7 +73,7 @@ h2{
 }
 
 p{
-    color: white;
+    color: rgb(214, 211, 211);
 
 }
 p> a{
@@ -58,6 +83,26 @@ p> a{
     position: fixed;
     bottom: 20px;
     right: 20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #674035;
+    border-radius: 12px;
+    
+}
+li {
+    padding: 14px 16px;
+    border-bottom:1px solid #070707;
+    color:#050505;
+
+}
+li span{
+    float: right;
+    color: #fbfbfb;
+    font-weight: bold;
 }
 img { 
     margin-left: 39px;
