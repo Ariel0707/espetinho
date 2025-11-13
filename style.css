@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #4c2424;
+    background-color: #3c1518;
 }
 
 
@@ -24,11 +24,11 @@ body {
     margin-right: 20px;
     margin-bottom: 20px;
     padding: 10px;
-    background-color: #7a3520;
+    background-color: #9e643c;
     border-radius: 12px;
 }
 .cd{
-    background-color: #150906;
+    background-color: #7a3520;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -115,7 +115,7 @@ img {
 
 
 footer {
-    background-color: #150906;
+    background-color: #02020b;
     color: white;
     text-align: center;
     padding: 10px 0;
